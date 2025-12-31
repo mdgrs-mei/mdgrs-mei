@@ -1,10 +1,10 @@
-## 👋 Hi, I'm mdgrs.
-
-## About Me
+# 👋 Hi, I'm mdgrs.
 
 - I love making fun, cool, and useful things with PowerShell
+- I develop games at work
 - I blog at https://mdgrs.hashnode.dev
 - I'm active on Bluesky [@mdgrs.bsky.social](https://bsky.app/profile/mdgrs.bsky.social)
+- I'm mostly just reading it but active on the [PowerShell Discord](https://discord.gg/powershell) too
 
 ## Projects I'm working on
 
@@ -16,7 +16,7 @@ Terminal Based Launcher and Fuzzy Finder for PowerShell ([GitHub Repo](https://g
 
 ![PowerShellRun](https://github.com/user-attachments/assets/fb817310-540c-4e54-b34d-1bf0d3759246)
 
-*PowerShellRun* is a launcher application released as a PowerShell module. You can launch applications, utilities and PowerShell functions/script blocks from your terminal. Add everything you need to PowerShellRun, the fuzzy finder helps you run them with ease.
+*PowerShellRun* is a launcher application released as a PowerShell module. You can launch applications, utilities and PowerShell script blocks from your terminal. Add everything you need to PowerShellRun, the fuzzy finder helps you run them with ease.
 
 ```powershell
 Enable-PSRunEntry -Category All
