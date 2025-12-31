@@ -12,7 +12,8 @@
 
 Terminal Based Launcher and Fuzzy Finder for PowerShell ([GitHub Repo](https://github.com/mdgrs-mei/PowerShellRun))
 
-![GitHub Repo stars](https://img.shields.io/github/stars/mdgrs-mei/PowerShellRun)
+![GitHub Repo stars](https://img.shields.io/github/stars/mdgrs-mei/PowerShellRun?label=Stars%20%E2%AD%90
+)
 
 ![PowerShellRun](https://github.com/user-attachments/assets/fb817310-540c-4e54-b34d-1bf0d3759246)
 
@@ -30,7 +31,8 @@ Invoke-PSRun
 
 Scripting WinUI 3 with PowerShell ([GitHub Repo](https://github.com/mdgrs-mei/WinUIShell))
 
-![GitHub Repo stars](https://img.shields.io/github/stars/mdgrs-mei/WinUIShell)
+![GitHub Repo stars](https://img.shields.io/github/stars/mdgrs-mei/WinUIShell?label=Stars%20%E2%AD%90
+)
 
 ![WinUIShell](https://github.com/user-attachments/assets/a4cc4bf3-0ca6-41f6-94bf-f039c5a5e48e)
 
