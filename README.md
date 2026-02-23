@@ -39,7 +39,8 @@ Scripting WinUI 3 with PowerShell ([GitHub Repo](https://github.com/mdgrs-mei/Wi
 *WinUIShell* is a PowerShell module that allows you to create WinUI 3 applications in PowerShell. The goal is to give script authors a framework to create modern and simple GUIs for their scripts.
 
 ```powershell
-using namespace WinUIShell
+using namespace WinUIShell.Microsoft.UI.Xaml
+using namespace WinUIShell.Microsoft.UI.Xaml.Controls
 Import-Module WinUIShell
 
 $win = [Window]::new()
