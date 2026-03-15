@@ -58,19 +58,19 @@ $win.Activate()
 $win.WaitForClosed()
 ```
 
-### AvaloniaUIShell
+### GliderUI
 
-Cross-platform Desktop GUI framework for PowerShell powered by Avalonia UI ([GitHub Repo](https://github.com/mdgrs-mei/AvaloniaUIShell))
+Cross-platform Desktop GUI framework for PowerShell powered by Avalonia ([GitHub Repo](https://github.com/mdgrs-mei/GliderUI))
 
-![GitHub Repo stars](https://img.shields.io/github/stars/mdgrs-mei/AvaloniaUIShell?label=Stars%20%E2%AD%90)
+![GitHub Repo stars](https://img.shields.io/github/stars/mdgrs-mei/GliderUI?label=Stars%20%E2%AD%90)
 
-![AvaloniaUIShell](https://github.com/user-attachments/assets/945c2c8b-189e-4d8a-88db-16349400f7c4)
+![GliderUI](https://github.com/user-attachments/assets/945c2c8b-189e-4d8a-88db-16349400f7c4)
 
-*WinUIShell* only runs on Windows, but *AvaloniaUIShell* runs on macOS, Linux and Windows.
+*WinUIShell* only runs on Windows, but *GliderUI* runs on macOS, Linux and Windows.
 
 ```powershell
-using namespace AvaloniaUIShell.Avalonia.Controls
-Import-Module AvaloniaUIShell
+using namespace GliderUI.Avalonia.Controls
+Import-Module GliderUI
 
 $win = [Window]::new()
 $win.Title = 'Hello from PowerShell!'
